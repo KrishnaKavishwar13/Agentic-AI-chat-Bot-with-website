@@ -30,7 +30,7 @@ Communication: REST API
 
 Setup
 1. Clone Repository
-git clone https://github.com/your-username/agentic-ai-chatbot.git
+git clone https://github.com/KrishnaKavishwar13/agentic-ai-chatbot.git
 cd agentic-ai-chatbot
 2. Run n8n
 
